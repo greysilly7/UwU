@@ -1,0 +1,9 @@
+{
+	"name": "Scam Detector 4000", 
+	"version": "1.0.0",
+	"description": "Warns you about scams",
+	"author": "Greysilly7#8813",
+	"license": "MIT",
+	"nsfw": false,
+	"permissions": "ext_api"	
+}
